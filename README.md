@@ -46,9 +46,10 @@ The aim is to analyze the dataset with the help of a pivot table and data visual
  
   6. Analyze the seasonal patterns in avocado prices. Create  charts or area charts to visualize how prices fluctuate throughout the year.  
 
-    ![image](https://github.com/sahanavenkatesh242/avocado-dataset-data-analysis-ms-excel/assets/157820520/39bd9ea1-dcb4-4651-a2f8-fc801b48dd44)
+     ![image](https://github.com/sahanavenkatesh242/avocado-dataset-data-analysis-ms-excel/assets/157820520/cb9baa8c-650e-4bbc-a145-3d10ea01ab25)
 
-    ![image](https://github.com/sahanavenkatesh242/avocado-dataset-data-analysis-ms-excel/assets/157820520/a0bf5f68-8c91-4fef-808c-c0633a8e7088)
+     ![image](https://github.com/sahanavenkatesh242/avocado-dataset-data-analysis-ms-excel/assets/157820520/59ec1f09-cb3f-41d7-bcbf-ad3fb868122d)
+
 
   This infers that 540 is the highest average price of avocados which were sold in March, May, Nov of 2015, Jan, May, Oct of 2016, Jan, Apr, July, Oct of 2017 
 
@@ -84,7 +85,7 @@ The aim is to analyze the dataset with the help of a pivot table and data visual
     
       ![image](https://github.com/sahanavenkatesh242/avocado-dataset-data-analysis-ms-excel/assets/157820520/8fec478a-8b0a-4f7b-a5fc-3abca6881467)
 
-    This infers that the 2017 year had the highest total bags sold.
+      This infers that the 2017 year had the highest total bags sold.
 
   12. What is the correlation of small bags with the large bags of avocados sold?
 
@@ -114,8 +115,8 @@ The aim is to analyze the dataset with the help of a pivot table and data visual
 
   16. Are there any noticeable trends in the total number of avocados sold for each type over 2015 and 2016?
 
-     ![image](https://github.com/sahanavenkatesh242/avocado-dataset-data-analysis-ms-excel/assets/157820520/194e3f82-000f-4787-908d-e7f35ec74460)
-     
+      ![image](https://github.com/sahanavenkatesh242/avocado-dataset-data-analysis-ms-excel/assets/157820520/ef0bca73-b600-440b-b922-554ac2d8858c)
+
       This infers that more conventional types of avocados are sold in 2015 and 2016.
 
   17. Identify and rank the top regions in terms of avocado production. Use Pivot Tables and charts to present the data.
@@ -128,7 +129,9 @@ The aim is to analyze the dataset with the help of a pivot table and data visual
 
         ![image](https://github.com/sahanavenkatesh242/avocado-dataset-data-analysis-ms-excel/assets/157820520/4370eaea-638a-4a02-b02f-d9f0dbd27808)
 
-        This infers that the conventional type of avocado in January was sold at the highest volume.
+
+
+       This infers that the conventional type of avocado in January was sold at the highest volume.
 
 
 
